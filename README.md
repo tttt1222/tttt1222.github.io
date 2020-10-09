@@ -1,4 +1,4 @@
 + Hello FAH
 
-IMG_8086.png
-![Github Logo](/images/IMG_8086.png)
+IMG_8086.jpg
+![Github Logo](/images/IMG_8086.jpg)
